@@ -620,24 +620,24 @@ img {
       text-transform: uppercase; }
       .single-slide .welcome-text h2 span {
         color: #ffffff;
-        font-weight: 300; }
+        font-weight: 600; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-slide .welcome-text h2 {
           font-size: 48px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .single-slide .welcome-text h2 {
-          font-size: 42px; } }
+          font-size: 24px; } }
       @media only screen and (max-width: 767px) {
         .single-slide .welcome-text h2 {
-          font-size: 24px; } }
+          font-size: 14px; } }
     .single-slide .welcome-text h4 {
-      font-size: 24px;
-      font-weight: 400;
+      font-size: 12px;
+      font-weight: 300;
       color: #ffffff;
       margin-bottom: 15px; }
       @media only screen and (max-width: 767px) {
         .single-slide .welcome-text h4 {
-          font-size: 18px; } }
+          font-size: 12px; } }
       .single-slide .welcome-text h4 span {
         font-weight: 300; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
